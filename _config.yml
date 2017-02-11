@@ -92,13 +92,13 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "简书",
+        href: "http://www.jianshu.com/u/8ec863a03f4f"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "CSDN",
+        href: "http://blog.csdn.net/two_water"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "知乎",
+        href: "https://www.zhihu.com/people/liangdianshui"
     }
 ]
