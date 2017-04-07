@@ -2,16 +2,16 @@
 title: 快看播放器
 SEOTitle: 快看播放器
 header-img: img/post-bg-rwd.jpg
-email: qiubaiying@gmail.com
-description: "本着两点水的心态，面对半瓶水的时代，奋斗一瓶水的能耐"
-keyword: "两点水, TwoWater, 两点水的博客, 博客, 谭永坚, Android, 面试题, BAT面试题, liangdianshui"
+email: 1358645312d@qq.com
+description: "快看播放器是一款新秀级别的视频播放器"
+keyword: "快看播放器, 播放器, 视频, 新秀级别的视频播放器"
 url: "https://ximenpanzi.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 # Sidebar settings
-sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "本着两点水的心态，面对半瓶水的时代，奋斗一瓶水的能耐"
+sidebar: false                           # whether or not using Sidebar.
+sidebar-about-description: "快看播放器是一款新秀级别的视频播放器"
 sidebar-avatar: img/icon_TwoWater.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -19,10 +19,10 @@ sidebar-avatar: img/icon_TwoWater.png      # use absolute URL, seeing it's used 
 # SNS settings
 RSS: false
 #weibo_username:     qiubaiying
-zhihu_username:     liangdianshui
-github_username:    twowater
+#zhihu_username:     liangdianshui
+#github_username:    twowater
 #facebook_username:  baiying.qiu.7
-jianshu_username:   8ec863a03f4f
+#jianshu_username:   8ec863a03f4f
 #twitter_username:   qiubaiying
 
 
@@ -58,9 +58,9 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: TwoWater
+#duoshuo_username: TwoWater
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+duoshuo_share: false                     # set to false if you want to use Comment without Sharing
 
 
 
